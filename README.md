@@ -1,17 +1,18 @@
-Hi 👋 My name is Cristiano
+
+Ola 👋 Meu nome é Cristiano
 ==========================
 
 Front end Software Developer jr
 -----------------------------
 
-I'm a Software Engineering student at Cruzeiro do Sul University and a Front End student at Alura, I'm 33 years old. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front-end development, making applications that impact the lives of thousands of users.
+Sou estudante de Engenharia de Software pela Universidade Cruzeiro do Sul e estudante de Front End pela Alura, tenho 33 anos. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
-* 🌍 I live in Sao Paulo, Brazil
-* ✉️ You can contact me at [Alencar_teixeira9012@hotmail.com]
-* 🚀 I am currently studying to achieve my first job with Dev.JR
-* 🧠 I'm learning HTML, CSS, JAVASCRIPT and REACT.JS
-* 🤝 I am open to collaborating on high impact projects on people's lives
-* ⚡ I love video games and traveling
+* 🌍 Moro em São Paulo, Brasil
+* ✉️ Pode contactar-me em [Alencar_teixeira9012@hotmail.com]
+* 🚀 Atualmente estou estudando para conseguir meu primeiro emprego como Dev.JR
+* 🧠 Estou aprendendo HTML, CSS, JAVASCRIPT e REACT
+* 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* ⚡ Adoro videogames e viajar
 
 <a href="https://github.com/Calencar22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/calencar?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
