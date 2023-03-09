@@ -2,10 +2,10 @@
 Ola 👋 Meu nome é Cristiano
 ==========================
 
-Front end Software Developer jr
+Dev. Front-End JR
 -----------------------------
 
-Sou estudante de Engenharia de Software pela Universidade Cruzeiro do Sul e estudante de Front End pela Alura, tenho 33 anos. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Sou estudante de Engenharia de Software pela Universidade Cruzeiro do Sul e estudante de Front End pela escola Alura, tenho 33 anos. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
 * 🌍 Moro em São Paulo, Brasil
 * ✉️ Pode contactar-me em [Alencar_teixeira9012@hotmail.com]
